@@ -138,3 +138,6 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+*/.ipynb_checkpoints
+EarthquakeModeling/.ipynb_checkpoints
+*/.ipynb_checkpoints/*
